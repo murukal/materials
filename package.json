@@ -1,0 +1,24 @@
+{
+  "name": "generator-fantu",
+  "version": "1.0.0",
+  "description": "番土番土物料市场",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murukal/materials.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "murukal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/murukal/materials/issues"
+  },
+  "homepage": "https://github.com/murukal/materials#readme",
+  "dependencies": {
+    "yeoman-generator": "^5.7.0"
+  },
+  "devDependencies": {
+    "@types/yeoman-generator": "^5.2.11"
+  }
+}
